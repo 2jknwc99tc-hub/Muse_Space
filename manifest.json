@@ -6,12 +6,12 @@
   "owner": "Nakamura",
   "repository": "2jknwc99tc-hub/Muse_Space",
   "notes": "Muse 备份导出格式 v1。manifest.json 本身不在文件列表中（自引用无法校验）。导入时按清单逐个核对 sha256，缺文件或哈希不符就先停下、不要猜。",
-  "file_count": 39,
+  "file_count": 47,
   "files": [
     {
       "path": "README.md",
       "purpose": "导入指南：这是什么、怎么植入一个新 Muse（必读）",
-      "sha256": "52cc3ec375fe945fc595ec46573f4d0ef8d2515f1149963ca6ced13ce333fbd1"
+      "sha256": "83fbb1cb88466c335cdb88ec34f0d134cd9bd007403e0fddcf68368ec25f1e8a"
     },
     {
       "path": "achievements/2026-11-13.md",
@@ -109,9 +109,49 @@
       "sha256": "dbc6859edf58628bf780db8334bba402386a2b96f51945343d4300243aa35d48"
     },
     {
+      "path": "goals/goal/files/notes/2026-11-12-01-palantir-fde-chanpinhua-zixun.md",
+      "purpose": "随心记文章全文（对应新助手 workspace/suixinji/notes/）",
+      "sha256": "cc6794e2cc2ec96718a9db62050e97c539e0c334f910eef32082a5396cb8e5d5"
+    },
+    {
+      "path": "goals/goal/files/notes/2026-11-12-02-chuantoushi-jianguan-siku.md",
+      "purpose": "随心记文章全文（对应新助手 workspace/suixinji/notes/）",
+      "sha256": "b73da32bd22f823adcdc566c9c3e2c47ec3b8edf8b9ee2a9f3ee95519972bb92"
+    },
+    {
+      "path": "goals/goal/files/notes/2026-11-12-03-shouqian-bant-shangji.md",
+      "purpose": "随心记文章全文（对应新助手 workspace/suixinji/notes/）",
+      "sha256": "b6ea2435ee061916a4ab95d7cf11cd3f0fc0c09ccde58c6e34efddf8624a25a3"
+    },
+    {
+      "path": "goals/goal/files/notes/2026-11-12-04-semantica-luojiceng-mokuai.md",
+      "purpose": "随心记文章全文（对应新助手 workspace/suixinji/notes/）",
+      "sha256": "ee0184293ba376d3a6aad1740464a377215eb7613a72f1b26a953db37320e636"
+    },
+    {
+      "path": "goals/goal/files/notes/2026-11-13-05-ontostudio-aip-fenxishi.md",
+      "purpose": "随心记文章全文（对应新助手 workspace/suixinji/notes/）",
+      "sha256": "13aa0b9c2669bf7172a14fbc7db6f7165af954b96c0259cf9540ff0a661ef535"
+    },
+    {
+      "path": "goals/goal/files/notes/2026-11-13-06-bentilun-qiye-shuzihua.md",
+      "purpose": "随心记文章全文（对应新助手 workspace/suixinji/notes/）",
+      "sha256": "9bf55b303580ba46ba0bdf2d765a70153409ec1b604aed45de44fe360ed1d3fb"
+    },
+    {
+      "path": "goals/goal/files/notes/2026-11-13-07-guoqi-touzi-chuantoushi-siquan-liuwei.md",
+      "purpose": "随心记文章全文（对应新助手 workspace/suixinji/notes/）",
+      "sha256": "7a59df1b2c7a93398877c8d41e60c708c8ddf0844c354f0ce33c777bf08856eb"
+    },
+    {
+      "path": "goals/goal/files/notes/INDEX.md",
+      "purpose": "随心记文章索引（对应新助手 workspace/suixinji/INDEX.md）",
+      "sha256": "e77ae8aafa8efe932b46e9872509775a5b7ce4b3f5a5d9b85eb10e6b01d0e2fc"
+    },
+    {
       "path": "goals/goal/goal.json",
       "purpose": "目标结构化记录：标题、状态、日程、角色名、用途",
-      "sha256": "ea2a2998495edea34d586a17af8307a1c859931d892357ca8b17155f90fb960f"
+      "sha256": "620677cdc66425fc6e545b6865934bf0b4cc17d8a47436aac73047de1a4e0a5d"
     },
     {
       "path": "goals/top-20/GOAL.md",

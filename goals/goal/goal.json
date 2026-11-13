@@ -1,1 +1,11 @@
-{"character":"好记星","created_date":"2026-11-12","notes":"slug “goal”是系统生成的通用 slug，导入时不要和别的 goal 混淆。本周随心记共 7 篇（2026-11-13 新增第 7 篇《国企投资穿透式监管怎么开展、怎么实施？四全模型与六维信息》），首期简报 2026-11-13 周五 19:00 发在随心记侧聊，默认不推微信。知识库原文在 workspace/suixinji/（README.md、INDEX.md、notes/ 每篇一条），本次备份未包含该知识库全文，只含本目标说明。","purpose":"Nakamura 在随心记侧聊里记录觉得不错的文章，Peanut 学习并记录下来，遇到对应或相似主题的项目需求时用上这些知识；每周五发一次本周知识简报，总结本周随心记里的知识重点帮他温故。","reference_id":"goal_da04bd8a655f","schedule":"每周五 19:00 Asia/Shanghai","slug":"goal","status":"active","title":"随心记知识简报"}
+{
+  "character": "好记星",
+  "created_date": "2026-11-12",
+  "notes": "slug “goal”是系统生成的通用 slug，导入时不要和别的 goal 混淆。本周随心记共 7 篇（2026-11-13 新增第 7 篇《国企投资穿透式监管怎么开展、怎么实施？四全模型与六维信息》），首期简报 2026-11-13 周五 19:00 发在随心记侧聊，默认不推微信。知识库全文 7 篇（含索引）在本备份 goals/goal/files/notes/（对应新助手 workspace/suixinji/notes/ 与 INDEX.md），2026-11-13 纳入备份。",
+  "purpose": "Nakamura 在随心记侧聊里记录觉得不错的文章，Peanut 学习并记录下来，遇到对应或相似主题的项目需求时用上这些知识；每周五发一次本周知识简报，总结本周随心记里的知识重点帮他温故。",
+  "reference_id": "goal_da04bd8a655f",
+  "schedule": "每周五 19:00 Asia/Shanghai",
+  "slug": "goal",
+  "status": "active",
+  "title": "随心记知识简报"
+}

@@ -38,6 +38,7 @@
 - Codex 依赖 Nakamura 的 ChatGPT 订阅登录，备份里没有登录凭证；需重新做设备码登录。
 - 每日 00:30 的自动同步、09:30 / 10:00 / 12:00 / 19:00 / 20:00 的定时推送，导入后都处于“待用户确认”状态，不要擅自启用。
 - `goals/goal/` 这个 slug 是系统生成的通用 slug（随心记），导入时不要和别的 goal 混淆。
+- 随心记 7 篇文章全文（含索引）在 `goals/goal/files/notes/`，对应新助手的 `workspace/suixinji/notes/` 与 `INDEX.md`。
 
 ## 版本
 
