@@ -12,3 +12,4 @@ Every page under `~/memory/people/`, closest to the user first. Rendered by the 
 - **DoinB** — `~/memory/people/a-geng.md` — Virtual goal-character for the Douyin daily memes TOP 20 in the AI 3D office; sends the hot-memes list every day at 09:30.
 - **贾维斯** — `~/memory/people/jia-wei-si.md` — Virtual goal-character for the daily embodied-intelligence trends in the AI 3D office; sends new scenes, products, services, and financing news every day at 10:00.
 - **经济哥** — `~/memory/people/jing-ji-ge.md` — Virtual goal-character for the weekly China-economy trends in the AI 3D office; sends a roundup drawn only from eight named banks every Wednesday at 12:00.
+- **Bengji** — `~/memory/people/bengji.md` — Virtual goal-character for the weekly ontology research trends in the AI 3D office; sends a weekly roundup every Friday at 18:00.
