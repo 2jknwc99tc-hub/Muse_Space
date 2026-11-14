@@ -1,12 +1,12 @@
 {
   "format_version": "1",
-  "backup_date": "2026-11-13",
+  "backup_date": "2026-11-14",
   "backup_timezone": "Asia/Shanghai",
   "assistant": "Peanut",
   "owner": "Nakamura",
   "repository": "2jknwc99tc-hub/Muse_Space",
   "notes": "Muse 备份导出格式 v1。manifest.json 本身不在文件列表中（自引用无法校验）。导入时按清单逐个核对 sha256，缺文件或哈希不符就先停下、不要猜。",
-  "file_count": 54,
+  "file_count": 66,
   "files": [
     {
       "path": "README.md",
@@ -17,6 +17,31 @@
       "path": "achievements/2026-11-13.md",
       "purpose": "当日成果清单（人类可读）",
       "sha256": "1ae7f28cbf82025101090ff2cc8902a6df147b7a5d06fb5ae7b03635f5657922"
+    },
+    {
+      "path": "achievements/2026-11-14.md",
+      "purpose": "当日成果清单（人类可读）",
+      "sha256": "665bc0a511f05adaf074d26b90c8e6f770acd0588cee125febe44235a4d8f2da"
+    },
+    {
+      "path": "deliverables/2026-11-14-anthropic-ipo-roadshow/Anthropic-IPO-Roadshow-Deck-2026-11-10.pdf",
+      "purpose": "工作成果：Anthropic IPO 路演幻灯片 PDF（从路演视频抽帧还原，共 56 页）",
+      "sha256": "449f0349702abfea82ae9ceda3a88a731fd713b5cee3359fdebbde6aed115c14"
+    },
+    {
+      "path": "deliverables/2026-11-14-anthropic-ipo-roadshow/slide-list.md",
+      "purpose": "工作成果：路演幻灯片清单（每页时间戳与标题）",
+      "sha256": "b1d4d11488dd6c22f425deda4b2e4dc5ae3c6d66d60a2d19eb2991bb9cd76d96"
+    },
+    {
+      "path": "goals/5/GOAL.md",
+      "purpose": "目标说明（对应新助手 workspace/goals/<slug>/GOAL.md）",
+      "sha256": "c9331e6b244d8020bc9815e9d23773081b267db16202facb9d7778f891e55cb0"
+    },
+    {
+      "path": "goals/5/goal.json",
+      "purpose": "目标结构化记录：标题、状态、日程、角色名、用途",
+      "sha256": "85bbec27fa9e038350d0e01a9c418aaed91790520d66ca7cf47b112278ae6846"
     },
     {
       "path": "goals/ai-3d-office-weekly-review/GOAL.md",
@@ -61,7 +86,7 @@
     {
       "path": "goals/commercial-park-ai-property-pilot/goal.json",
       "purpose": "目标结构化记录：标题、状态、日程、角色名、用途",
-      "sha256": "b6f8e90404f8362b7d0ed654aba4a36208be6246605710ab306ca97b9723515b"
+      "sha256": "3973705b605b75bdadcbf62b314a168ff70d737b960a964dc7927fc8735697a9"
     },
     {
       "path": "goals/github-skill/GOAL.md",
@@ -116,7 +141,7 @@
     {
       "path": "goals/goal-4/goal.json",
       "purpose": "目标结构化记录：标题、状态、日程、角色名、用途",
-      "sha256": "ef0bbebd688657803d00931da0911b368843bfeda3d08533785d998890d8078b"
+      "sha256": "5779ecdac83b51520caec2bb90bfe7dd7259c683e23aead6644c6b81eeefdce3"
     },
     {
       "path": "goals/goal/GOAL.md",
@@ -179,14 +204,24 @@
       "sha256": "8794310020946fd3431dcf6984c428ccf178b36ca215400ef625134c69bd8410"
     },
     {
+      "path": "goals/goal/files/notes/2026-11-14-12-sitanfu-ai100-2026.md",
+      "purpose": "随心记文章全文（对应新助手 workspace/suixinji/notes/）",
+      "sha256": "4264bc82323e348a2e4509a0fd5c1f46c4376f4173c37fdfc06584bf61423f3f"
+    },
+    {
+      "path": "goals/goal/files/notes/2026-11-14-13-liucheng-geren-jingyan-zuzhi-zichan.md",
+      "purpose": "随心记文章全文（对应新助手 workspace/suixinji/notes/）",
+      "sha256": "7fc3480476ffa70dcb07d313097d11c7cfcd0abebdd03d42be6254ada6a35bc1"
+    },
+    {
       "path": "goals/goal/files/notes/INDEX.md",
       "purpose": "随心记文章索引（对应新助手 workspace/suixinji/INDEX.md）",
-      "sha256": "690dec428d38ac8829b9db70f0c2f325221a77d66d4702bc675cc62c286f60fa"
+      "sha256": "6dbfeae50cca9cf656de994286e219bdd31340ae8264a796cc1936b031cfbfdd"
     },
     {
       "path": "goals/goal/goal.json",
       "purpose": "目标结构化记录：标题、状态、日程、角色名、用途",
-      "sha256": "fdd9879a266a35cdadf00edd9926586a841ce338b5e80855745fe4c99c065e71"
+      "sha256": "83e4b2b1e2a4fb8b14a296806bec7a4882d21c6e757adf5bff5b538b6670d420"
     },
     {
       "path": "goals/top-20/GOAL.md",
@@ -199,9 +234,19 @@
       "sha256": "d66e016be0651c74f08ded6990e9e2d63ecdc5add0da17ca447d92a46620f935"
     },
     {
+      "path": "groups/INDEX.md",
+      "purpose": "群组档案（对应新助手的 ~/memory/groups/）",
+      "sha256": "8520e5aac45e548a9626a883d5ab3e38263f517445f44059961f19df3c3cf1c7"
+    },
+    {
+      "path": "groups/virtual-teammates.md",
+      "purpose": "群组档案（对应新助手的 ~/memory/groups/）",
+      "sha256": "34d098b59fbf7d0ce677ba1cea5352c9210f55304501ebe3dbf8faa88aed937c"
+    },
+    {
       "path": "memory/MEMORY.md",
       "purpose": "长期记忆（对应新助手的 ~/MEMORY.md）",
-      "sha256": "8816c4cf6c76d35ccacefe3348ec845dada7fc26e9502151b485284271502abc"
+      "sha256": "e413bf45ed6cf8501169bca60633e157f6cf537670dd0ec3c6414d7d2ec9fbac"
     },
     {
       "path": "memory/daily/2026-11-12.md",
@@ -214,24 +259,29 @@
       "sha256": "ddff4c994550bce1a46e0c3ad9adec613f19dc51d79b6c12c8cf5352657b1082"
     },
     {
+      "path": "memory/daily/2026-11-14.md",
+      "purpose": "每日日志（对应新助手的 ~/memory/YYYY-MM-DD.md）",
+      "sha256": "57eb8f5f50a2131b10148f43813b26b4be77c354d901ba9d0154829cced94cda"
+    },
+    {
       "path": "people/INDEX.md",
       "purpose": "人物索引",
-      "sha256": "f3bf32f17f5716b065662d343789aa24d08c20996903e633187f0cc618f9e52c"
+      "sha256": "2686994885c12cac6ffb15ae59fdabe01beea12f60e61e2f5206a3921c898ba3"
     },
     {
       "path": "people/a-bang.md",
       "purpose": "人物档案（对应新助手的 ~/memory/people/）",
-      "sha256": "d5c4d780e301b45a21bf2342af813eaf8a1fe16e185c4ed0547f4845dab791e1"
+      "sha256": "6702d9bd5305a96b4860a45d455758b3a7d89f2a5727e83a7e1bf1a4e0b3f21f"
     },
     {
       "path": "people/a-geng.md",
       "purpose": "人物档案（对应新助手的 ~/memory/people/）",
-      "sha256": "0784a7113ec7f07a77852e74b8a79ab46752c01870555e9201255be6825bc0ee"
+      "sha256": "f9de6d949f98defe3393911571fd51d659f50ee98b0c0619b2ff42422b890724"
     },
     {
       "path": "people/a-ji.md",
       "purpose": "人物档案（对应新助手的 ~/memory/people/）",
-      "sha256": "7a4e18739026d5c3ff0434599445139d59b17a3c91dd684351e893d4142cc168"
+      "sha256": "de11ded4916c5df8e1ff82d3dab3b330b1fb3e4edbe459a5ab6ff8a7fee093f8"
     },
     {
       "path": "people/a-ma.md",
@@ -246,7 +296,7 @@
     {
       "path": "people/a-xun.md",
       "purpose": "人物档案（对应新助手的 ~/memory/people/）",
-      "sha256": "9905c2c5a1d8905ed84cd7f283be0bf6ff08d84f2e9ad02ec8ed8865e93837ee"
+      "sha256": "365616d966f504d439c3134852493064b96ae08143f326d05420d20049c6d6c6"
     },
     {
       "path": "people/a-ying.md",
@@ -254,14 +304,24 @@
       "sha256": "ae5c804e8dd8557123907a7bab79897bbeaf8dbd8c9265f7767cbc679b9c40ce"
     },
     {
+      "path": "people/bengji.md",
+      "purpose": "人物档案（对应新助手的 ~/memory/people/）",
+      "sha256": "1f312a18b5ed8717aea58fe67fe9892a4146015a7a084597660186ae38b3cc37"
+    },
+    {
       "path": "people/boss.md",
       "purpose": "人物档案（对应新助手的 ~/memory/people/）",
-      "sha256": "0b0b15d0c6543a75820e6cb0c16a1be7ff1efc8e9d81b7fe74df7508af407d35"
+      "sha256": "d0485a89c8aeb486b5eb65dde36978725eb3cafc78af63d5c7a67eecd83ab8d3"
+    },
+    {
+      "path": "people/chi-shu-jiang.md",
+      "purpose": "人物档案（对应新助手的 ~/memory/people/）",
+      "sha256": "f1c0654139f24569fc166556220c36d423529edf5710596e8b409ec21ebcde54"
     },
     {
       "path": "people/jia-wei-si.md",
       "purpose": "人物档案（对应新助手的 ~/memory/people/）",
-      "sha256": "f15a778132a21d40acf06fd4f3bc4b51802bfa98fe9f7036f3b9679eff275c5b"
+      "sha256": "aa4611444d537a3b221727db62fe26b38fb949c5d7b763ca4f0e78382e5316ca"
     },
     {
       "path": "people/jing-ji-ge.md",
@@ -271,12 +331,12 @@
     {
       "path": "tasks/scheduled.json",
       "purpose": "定时任务清单：标题、日程、用途（不含执行凭证）",
-      "sha256": "640184c29eb3273ec4e2e40f12d2cb5d61f7930c823943976db5fd49fdc90816"
+      "sha256": "452be590560a43f3c1f8eff47a72b57011d475119ca4a4f26b923889bf9b59fb"
     },
     {
       "path": "tasks/tracked.json",
       "purpose": "跟踪事项清单：标题、状态、说明",
-      "sha256": "80d7e698fed2842e5bca3ad37e70c759c76f8da831142ee80886f699f9d38209"
+      "sha256": "082969d34c8760e83b37c143c97a982fbe13db17923426f9ee25ce346ca17a87"
     }
   ]
 }

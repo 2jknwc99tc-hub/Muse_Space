@@ -3,7 +3,7 @@ display_name: "大佬G"
 first_name: "大佬G"
 nickname: "大佬G"
 summary: "Virtual goal-character for the GitHub daily TOP 10 in the AI 3D office; sends three Agent Skills TOP 10 lists every day at 09:30."
-rank: "6"
+rank: 6
 updated: "2026-11-13"
 ---
 

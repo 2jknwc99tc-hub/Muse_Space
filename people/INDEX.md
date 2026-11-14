@@ -2,7 +2,7 @@
 
 Every page under `~/memory/people/`, closest to the user first. Rendered by the relationships loop; each page carries the facts and the nature of the user's relationship with them.
 
-- **老板** — `~/memory/people/boss.md` — Decision-maker for the AI property pilot; reports to him must be concise, outline-led, and conclusions-first.
+- **老板** — `~/memory/people/boss.md` — Decision-maker for the AI property pilot, currently shelved pending his approval; reports to him must be concise, outline-led, and conclusions-first.
 - **克劳德** — `~/memory/people/a-ma.md` — Virtual programming teammate, Codex-powered; Nakamura delegates coding, fixes, tests, and code review to him through Peanut.
 - **幻灯仔** — `~/memory/people/a-ying.md` — Virtual PPT teammate; Nakamura delegates turning content into slides, structure, layout, and speaker notes to her through Peanut.
 - **方案哥** — `~/memory/people/a-wen.md` — Virtual Word-proposal teammate; Nakamura delegates Word schemes and briefing materials in the V8 format, conclusion-first and boss/customer-safe, to him through Peanut.
@@ -13,3 +13,4 @@ Every page under `~/memory/people/`, closest to the user first. Rendered by the 
 - **贾维斯** — `~/memory/people/jia-wei-si.md` — Virtual goal-character for the daily embodied-intelligence trends in the AI 3D office; sends new scenes, products, services, and financing news every day at 10:00.
 - **经济哥** — `~/memory/people/jing-ji-ge.md` — Virtual goal-character for the weekly China-economy trends in the AI 3D office; sends a roundup drawn only from eight named banks every Wednesday at 12:00.
 - **Bengji** — `~/memory/people/bengji.md` — Virtual goal-character for the weekly ontology research trends in the AI 3D office; sends a weekly roundup every Friday at 18:00.
+- **吃书匠** — `~/memory/people/chi-shu-jiang.md` — Virtual goal-character for the 5-day fast reading goal in the AI 3D office; sends a daily book-splitting note every weekday at 07:00.

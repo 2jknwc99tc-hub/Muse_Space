@@ -3,7 +3,7 @@ display_name: "A讯仔"
 first_name: "A讯仔"
 nickname: "A讯仔"
 summary: "Virtual goal-character for the weekly AI major events in the AI 3D office; sends a weekly roundup every Friday at 12:00."
-rank: "7"
+rank: 7
 updated: "2026-11-13"
 ---
 

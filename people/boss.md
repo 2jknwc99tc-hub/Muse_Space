@@ -1,8 +1,8 @@
 ---
 display_name: "老板"
-summary: "Decision-maker for the AI property pilot; reports to him must be concise, outline-led, and conclusions-first."
+summary: "Decision-maker for the AI property pilot, currently shelved pending his approval; reports to him must be concise, outline-led, and conclusions-first."
 rank: 1
-updated: "2026-11-12"
+updated: "2026-11-14"
 ---
 
 # 老板
@@ -18,6 +18,7 @@ updated: "2026-11-12"
 - His name has not been given in the evidence so far.
 - He has approved only the 50,000-yuan verification plus limited testing (seller-paid) for the pilot; signing, charging, and replication are not approved.
 - 2026-12-18 is an internal second meeting, not a customer signing date.
+- 2026-11-14: The pilot is temporarily shelved pending the boss's approval (Nakamura's words, 2026-11-14: “这个暂时搁置，老板还在审批”). Day 2 close-out follow-up and the planned 2026-11-15 reply review are paused until Nakamura says to resume; Guangzhou's Day 1/2 status remains unconfirmed, not assumed done or failed.
 - Last spoke: unknown.
 
 ## History
@@ -31,6 +32,7 @@ updated: "2026-11-12"
 - 2026-11-12: An emergency meeting the same day produced V9.3: 0 packages fully clear, 7 partially clear, 7 unclear; pilot charging was rejected except for zero-fee data authorization; 72-hour actions run 2026-11-12 to 2026-11-15.
 - 2026-11-12: A fusion round the same day produced V9.4: graph technology plus AI-brain fusion was accepted as the architecture, but the conclusion was unchanged — only the 50,000-yuan verification plus limited testing, with the 7 tests still at 0/5/2; the next-step plan is a concise 2-week version only, 2026-11-13 to 2026-11-26.
 - 2026-11-12: The boss-version Word document was delivered at 5 pages, within the 5–6 page limit; the detailed draft was later revised to 14 pages, figures unchanged, format still following the V8 original, with "总体经济账与复制判断" pulled out as standalone chapter 4 and the "提请审议事项与下一步工作" chapter deleted.
+- 2026-11-14: Nakamura said the pilot is temporarily shelved because the boss is still approving it; the Day 2 close-out follow-up and the planned 2026-11-15 reply review are paused until he says to resume.
 
 ## The relationship
 - The boss is the decision-maker on the AI property pilot; Nakamura reports to him on it.
@@ -40,7 +42,8 @@ updated: "2026-11-12"
 ## In common
 
 ## Open threads
-- [ ] Interim version of the pilot scheme to be submitted to the boss for approval on 2026-11-15 (structure only, figures marked as to be verified).
+- [ ] Interim version of the pilot scheme to be submitted to the boss for approval on 2026-11-15 (structure only, figures marked as to be verified) — status unclear after the 2026-11-14 shelving; the boss is still approving.
+- [ ] Pilot on hold as of 2026-11-14 pending the boss's approval; resume the Day 2 close-out follow-up and the reply review only when Nakamura says so.
 - [ ] Internal second meeting on 2026-12-18; V9.2 is the sole draft for it.
 
 ## Strengthening

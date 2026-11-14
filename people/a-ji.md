@@ -3,7 +3,7 @@ display_name: "好记星"
 first_name: "好记星"
 nickname: "好记星"
 summary: "Virtual goal-character for 随心记 in the AI 3D office; keeps Nakamura's saved articles and sends a weekly knowledge briefing every Friday at 19:00."
-rank: "5"
+rank: 5
 updated: "2026-11-13"
 ---
 

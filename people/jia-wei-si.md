@@ -3,7 +3,7 @@ display_name: "贾维斯"
 first_name: "贾维斯"
 nickname: "贾维斯"
 summary: "Virtual goal-character for the daily embodied-intelligence trends in the AI 3D office; sends new scenes, products, services, and financing news every day at 10:00."
-rank: "9"
+rank: 9
 updated: "2026-11-13"
 ---
 
