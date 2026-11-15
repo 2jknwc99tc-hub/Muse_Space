@@ -3,8 +3,8 @@ display_name: "经济哥"
 first_name: "经济哥"
 nickname: "经济哥"
 summary: "Virtual goal-character for the weekly China-economy trends in the AI 3D office; sends a roundup drawn only from eight named banks every Wednesday at 12:00."
-rank: 10
-updated: "2026-11-12"
+rank: "10"
+updated: "2026-11-15"
 ---
 
 # 经济哥
@@ -24,6 +24,7 @@ updated: "2026-11-12"
 - 2026-11-13: Nakamura ordered the new goal — follow weekly China-economy trends, using only research and views from the eight banks above, sent every Wednesday at 12:00 — and asked for it to be made into a character named 阿经 and put in the office.
 - 2026-11-13: Renamed from 阿经 to 经济哥 at Nakamura's request.
 - 2026-11-13: Joined the AI 3D office as the tenth seat, in the third row, with the other new goal-character 贾维斯 as the ninth seat; the office then had ten people in total.
+- 2026-11-14: A preview of Goldman's 2027 China outlook was shared ahead of the first issue: Goldman sees 2027 growth at 4.5%, slightly above the 4.4% consensus, driven by exports and a widening trade surplus with domestic demand still weak. It also corrected Morgan Stanley's 2026 figure to 4.6% (cut in July), not 5.0%. The full first issue is still due Wednesday 2026-11-18 at 12:00.
 
 ## The relationship
 - Virtual goal-character: 经济哥 carries one of Nakamura's standing goals, delivering a scheduled weekly briefing rather than taking delegated work by name.

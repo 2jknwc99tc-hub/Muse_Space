@@ -3,8 +3,8 @@ display_name: "贾维斯"
 first_name: "贾维斯"
 nickname: "贾维斯"
 summary: "Virtual goal-character for the daily embodied-intelligence trends in the AI 3D office; sends new scenes, products, services, and financing news every day at 10:00."
-rank: 9
-updated: "2026-11-13"
+rank: "9"
+updated: "2026-11-15"
 ---
 
 # 贾维斯
@@ -16,6 +16,9 @@ updated: "2026-11-13"
 - Results are delivered in the main chat and pushed to WeChat.
 - First issue delivered Friday 2026-11-13 at 10:00 in the main chat and pushed to WeChat, with delivery confirmed under the new message-id verification rule; it carried three items — one new scene and two financing items — with no verifiable new product or new service that day.
 - Nakamura scored the first issue 3 on 2026-11-13 via WeChat, for the Friday 20:00 office review.
+- Second issue delivered Sunday 2026-11-15 at 10:00, with one new item — a new scene, San Jose's humanoid robot Sir Kit promoting city tourism — and no verifiable new product, new service, or financing item in the window.
+- The 2026-11-15 issue's WeChat push first failed (expired credential, no delivery receipt) and was re-sent and verified after Nakamura refreshed the credential with a WeChat message.
+- Nakamura scored the 2026-11-15 issue 1 via WeChat, for the Friday 20:00 office review; 贾维斯 is still in his 2-week no-demotion protection as a new joiner, so the 1 counts as a reminder only and does not trigger demotion.
 - Has a seat in the AI 3D office, the ninth seat, in the third row; started on standby when he joined.
 - Look as set out when he joined the office: orange antenna hairpin and a small robot dog.
 - In the AI 3D office, starts at 从九品 (the lowest rank) from 2026-11-13; Peanut alone is 正一品 殿阁大学士. His home post, kept by function, is 工部员外郎; rank and office are shown separately until promotion reaches that office's grade.
@@ -27,6 +30,8 @@ updated: "2026-11-13"
 - 2026-11-13: Joined the AI 3D office as the ninth seat, in the third row, with the other new goal-character 经济哥 as the tenth seat; the office then had ten people in total.
 - 2026-11-13: First issue of the daily embodied-intelligence trends delivered at 10:00, covering one new scene (昆腾动力具身机器人 in 菜鸟 logistics warehouses) and two financing items (Agile Robots and 曦选创智), with no verifiable new product or new service that day.
 - 2026-11-13: Nakamura scored the first issue 3 via WeChat, for the Friday 20:00 office review.
+- 2026-11-15: Second issue of the daily embodied-intelligence trends delivered at 10:00, with one new item (San Jose's humanoid robot Sir Kit promoting city tourism); the WeChat push first failed on an expired credential and was re-sent and verified after Nakamura refreshed the credential.
+- 2026-11-15: Nakamura scored the second issue 1 via WeChat, for the Friday 20:00 office review; 贾维斯 is in his 2-week no-demotion protection, so the 1 is a reminder only and does not trigger demotion.
 
 ## The relationship
 - Virtual goal-character: 贾维斯 carries one of Nakamura's standing goals, delivering a scheduled daily briefing rather than taking delegated work by name.
@@ -36,5 +41,7 @@ updated: "2026-11-13"
 
 ## Open threads
 - [x] First issue of the daily embodied-intelligence trends, delivered Friday 2026-11-13 at 10:00.
+- [x] Second issue of the daily embodied-intelligence trends, delivered Sunday 2026-11-15 at 10:00.
+- [ ] Next daily embodied-intelligence trends issue, due Monday 2026-11-16 at 10:00.
 
 ## Strengthening

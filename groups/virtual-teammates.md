@@ -1,8 +1,8 @@
 ---
 display_name: "虚拟队友"
 summary: "Nakamura's virtual team in the AI 3D office — 克劳德, 幻灯仔, and 方案哥 plus eight goal-characters — who work for him through Peanut."
-rank: 1
-updated: "2026-11-14"
+rank: "1"
+updated: "2026-11-15"
 ---
 
 # 虚拟队友
@@ -46,6 +46,9 @@ updated: "2026-11-14"
 - 2026-11-13: Nakamura scored five tasks via WeChat for the first Friday 20:00 office review: Bengji 4, A讯仔 4, 贾维斯 3, 大佬G 4, and DoinB 3. A second identical Bengji 4 later the same day was a confirmation, not a second score.
 - 2026-11-13: At the first Friday 20:00 office review, the five scored tasks meant no one was promoted or demoted — the highest score, 4.0, was below the 4.5 promotion line, and the lowest, 3.0, did not touch the demotion line. 好记星 had not yet been scored, and Peanut proposed making the Friday 20:00 review a scheduled task so it runs automatically; Nakamura had not yet decided by the end of the window.
 - 2026-11-13: Nakamura synced his local Codex projects to his GitHub repo Codex_Space himself and set the rule for 克劳德, 幻灯仔, and 方案哥: ask which project before work, create a directory in Codex_Space for a new project, and — changed at 12:05 at his request — sync automatically after the work without asking, and tell him once it is done or if it fails. Peanut generated a dedicated deploy key, Nakamura added it with write access, and Peanut verified access and cloned the repo locally.
+- 2026-11-14: Bengji sent a correction letter for his first ontology weekly roundup: it had omitted AgensGraph 2.18 and Fluree DB 4.2.6, both in the 2026-11-06 to 2026-11-12 window; from then on release channels were added to his scan range, not only papers.
+- 2026-11-15: The morning WeChat pushes for the Douyin, GitHub, and embodied-intelligence briefings first appeared to succeed but had no delivery receipt (expired credential, as on 2026-11-13); after Nakamura sent a WeChat message refreshing the credential, all three were re-sent and verified delivered.
+- 2026-11-15: Nakamura scored 贾维斯's second daily embodied-intelligence issue 1 via WeChat, for the Friday 20:00 office review; 贾维斯 is still in his 2-week no-demotion protection, so the 1 is a reminder only and does not trigger demotion.
 
 ## Themes
 - Coding work through 克劳德, including Nakamura's Codex projects, now synced to his GitHub repo Codex_Space.
