@@ -1,7 +1,7 @@
 ---
 display_name: "虚拟队友"
 summary: "Nakamura's virtual team in the AI 3D office — 克劳德, 幻灯仔, and 方案哥 plus eight goal-characters — who work for him through Peanut."
-rank: "1"
+rank: 1
 updated: "2026-11-15"
 ---
 

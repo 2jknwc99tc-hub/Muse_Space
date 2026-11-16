@@ -3,7 +3,7 @@ display_name: "Bengji"
 first_name: "Bengji"
 nickname: "Bengji"
 summary: "Virtual goal-character for the weekly ontology research trends in the AI 3D office; sends a weekly roundup every Friday at 18:00."
-rank: "11"
+rank: 11
 updated: "2026-11-15"
 ---
 
