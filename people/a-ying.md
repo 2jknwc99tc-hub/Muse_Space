@@ -3,7 +3,7 @@ display_name: "幻灯仔"
 first_name: "幻灯仔"
 nickname: "幻灯仔"
 summary: "Virtual PPT teammate; Nakamura delegates turning content into slides, structure, layout, and speaker notes to her through Peanut."
-rank: 3
+rank: 4
 updated: "2026-11-13"
 ---
 

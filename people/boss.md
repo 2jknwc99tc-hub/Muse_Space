@@ -1,7 +1,7 @@
 ---
 display_name: "老板"
 summary: "Decision-maker for the AI property pilot, currently shelved pending his approval; reports to him must be concise, outline-led, and conclusions-first."
-rank: 1
+rank: 2
 updated: "2026-11-14"
 ---
 

@@ -2,6 +2,7 @@
 
 Every page under `~/memory/people/`, closest to the user first. Rendered by the relationships loop; each page carries the facts and the nature of the user's relationship with them.
 
+- **天秤座 INFJ 女生** — `~/memory/people/libra-infj-woman.md` — Woman Nakamura is pursuing; they have shared several meals, she knows he is pursuing her, and she is willing to get to know each other mutually.
 - **老板** — `~/memory/people/boss.md` — Decision-maker for the AI property pilot, currently shelved pending his approval; reports to him must be concise, outline-led, and conclusions-first.
 - **克劳德** — `~/memory/people/a-ma.md` — Virtual programming teammate, Codex-powered; Nakamura delegates coding, fixes, tests, and code review to him through Peanut.
 - **幻灯仔** — `~/memory/people/a-ying.md` — Virtual PPT teammate; Nakamura delegates turning content into slides, structure, layout, and speaker notes to her through Peanut.

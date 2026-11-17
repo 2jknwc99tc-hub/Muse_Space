@@ -3,7 +3,7 @@ display_name: "DoinB"
 first_name: "DoinB"
 nickname: "DoinB"
 summary: "Virtual goal-character for the Douyin daily memes TOP 20 in the AI 3D office; sends the hot-memes list every day at 09:30."
-rank: 8
+rank: 9
 updated: "2026-11-13"
 ---
 

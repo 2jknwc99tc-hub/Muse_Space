@@ -3,7 +3,7 @@ display_name: "方案哥"
 first_name: "方案哥"
 nickname: "方案哥"
 summary: "Virtual Word-proposal teammate; Nakamura delegates Word schemes and briefing materials in the V8 format, conclusion-first and boss/customer-safe, to him through Peanut."
-rank: 4
+rank: 5
 updated: "2026-11-13"
 ---
 

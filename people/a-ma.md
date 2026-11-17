@@ -3,7 +3,7 @@ display_name: "克劳德"
 first_name: "克劳德"
 nickname: "克劳德"
 summary: "Virtual programming teammate, Codex-powered; Nakamura delegates coding, fixes, tests, and code review to him through Peanut."
-rank: 2
+rank: 3
 updated: "2026-11-13"
 ---
 
