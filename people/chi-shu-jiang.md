@@ -4,7 +4,7 @@ first_name: "吃书匠"
 nickname: "吃书匠"
 summary: "Virtual goal-character for the 5-day fast reading goal in the AI 3D office; sends a daily book-splitting note every weekday at 07:00."
 rank: 13
-updated: "2026-11-17"
+updated: "2026-11-18"
 ---
 
 # 吃书匠
@@ -19,7 +19,8 @@ updated: "2026-11-17"
 - Goal: 5天速读一本书 (goal_a2ff38a2a631, slug 5); scheduled task `book-reading-weekly`, Mon–Fri 07:00 Asia/Shanghai.
 - First book: 《盐铁论》 (西汉 桓宽, 10 卷 60 篇), named by Nakamura on Saturday 2026-11-14; reading week 2026-11-16 to 2026-11-20, 12 篇 per day (Day 1: 1-12, Day 2: 13-24, Day 3: 25-36, Day 4: 37-48, Day 5: 49-60). Directory verified 2026-11-14 against 河南省社科联 and 识典古籍《玉海》引《汉书·艺文志》.
 - Day 1 note of 《盐铁论》 (第 1–12 篇) delivered Monday 2026-11-16, in the main chat and pushed to WeChat; a pre-read letter went out the evening of Sunday 2026-11-15, flagging that the ten-volume and Siku editions number the chapters differently and that one Confucius quote would be held until the original text was checked.
-- Day 2 note of 《盐铁论》 (第 13–24 篇, 卷三 第 13–15 篇 + 卷四 第 16–19 篇 + 卷五 第 20–24 篇) delivered Tuesday 2026-11-17, in the main chat and pushed to WeChat; it covered the debate widening from salt and iron to land, wealth, and people, the dispute over where wealth comes from, and the clash over whether Confucian scholars are of any use. Day 3 is to read 第 25–36 篇 on Wednesday 2026-11-18.
+- Day 2 note of 《盐铁论》 (第 13–24 篇, 卷三 第 13–15 篇 + 卷四 第 16–19 篇 + 卷五 第 20–24 篇) delivered Tuesday 2026-11-17, in the main chat and pushed to WeChat; it covered the debate widening from salt and iron to land, wealth, and people, the dispute over where wealth comes from, and the clash over whether Confucian scholars are of any use.
+- Day 3 note of 《盐铁论》 (第 25–36 篇, 卷五 第 25–28 篇 + 卷六 第 29–36 篇) delivered Wednesday 2026-11-18, in the main chat and pushed to WeChat; it covered the debate shifting from salt and iron to who is qualified to speak and whether those in power are upright, the root of "聚不足" in example from above and institutional failure, and governing as driving a horse and controlling water, with punishment as the whip rather than the reins. The WeChat push went out twice (the scheduled task repeated it); the content was the same. Day 4 is to read 第 37–48 篇 on Thursday 2026-11-19.
 - Has a seat in the AI 3D office, the twelfth seat; started on standby when he joined.
 - In the AI 3D office, starts at 从九品 (the lowest rank) from 2026-11-14; Peanut alone is 正一品 殿阁大学士. His home post, kept by function, is 从五品·翰林院侍读 (verified 2026-11-14 during the office build: 侍读初制正六品，雍正三年改从五品，乾隆以降定制从五品); rank and office are shown separately until promotion reaches that office's grade.
 - Office seat verified 2026-11-14: 12th member, seat 11, front row fourth desk, status 待命, avatar a scholar with a topknot in a wine-red robe holding a stack of books with red ribbon bookmarks.
@@ -34,6 +35,7 @@ updated: "2026-11-17"
 - 2026-11-15: A pre-read letter for 《盐铁论》 went out on Sunday evening, ahead of the formal Day 1 note, flagging the edition chapter-numbering difference and holding one Confucius quote until the original text was checked.
 - 2026-11-16: Day 1 note of 《盐铁论》 (第 1–12 篇) delivered in the main chat and pushed to WeChat.
 - 2026-11-17: Day 2 note of 《盐铁论》 (第 13–24 篇) delivered in the main chat and pushed to WeChat.
+- 2026-11-18: Day 3 note of 《盐铁论》 (第 25–36 篇) delivered in the main chat and pushed to WeChat; the WeChat push went out twice, with the same content.
 
 ## The relationship
 - Virtual goal-character: 吃书匠 carries one of Nakamura's standing goals, delivering a scheduled weekday reading briefing rather than taking delegated work by name.
@@ -44,7 +46,8 @@ updated: "2026-11-17"
 ## Open threads
 - [x] First note of 《盐铁论》 Day 1 (第 1-12 篇), delivered Monday 2026-11-16.
 - [x] Day 2 note of 《盐铁论》 (第 13–24 篇), delivered Tuesday 2026-11-17.
+- [x] Day 3 note of 《盐铁论》 (第 25–36 篇), delivered Wednesday 2026-11-18.
 - [ ] Nakamura to give feedback on the note format after trying the Day 1 note on Monday 2026-11-16.
-- [ ] Day 3 note of 《盐铁论》 (第 25–36 篇), due Wednesday 2026-11-18 at 07:00.
+- [ ] Day 4 note of 《盐铁论》 (第 37–48 篇), due Thursday 2026-11-19 at 07:00.
 
 ## Strengthening

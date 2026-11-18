@@ -3,7 +3,7 @@ display_name: "贾维斯"
 first_name: "贾维斯"
 summary: "Virtual goal-character for the daily embodied-intelligence trends in the AI 3D office; sends new scenes, products, services, and financing news every day at 10:00."
 rank: 10
-updated: "2026-11-17"
+updated: "2026-11-18"
 ---
 
 # 贾维斯
@@ -21,6 +21,7 @@ updated: "2026-11-17"
 - Third issue delivered Monday 2026-11-16 at 10:00 in the main chat, with three new items — two new scenes (TARSBOT×安普 deploying 100 industrial embodied robots to smart factories within the year; Faraday Future delivering 2 Aegis Ultra robots to Central Michigan University) and one new product (University of Pennsylvania's self-sensing artificial muscle CoilLCE) — and no verifiable new service or financing item in the window.
 - The 2026-11-16 issue's WeChat push first failed (expired credential, no delivery receipt); Nakamura refreshed the credential with a WeChat message afterwards, and the issue was re-sent to WeChat later on 2026-11-16 with delivery confirmed. The re-send was delayed because Peanut had first misread Nakamura's confirmation that the credential was refreshed as a go-ahead on the Chaoshan booking.
 - Fourth issue delivered Tuesday 2026-11-17 at 10:00 in the main chat and pushed to WeChat, with five new items — one new scene (巨星传奇×Galaxy signing to build robot entertainment, including a robot park and tour), one new product (Huawei Cloud's CloudRobo-WM1.2 embodied world model), two new services (Pony.ai×Toyota Gen 7 bZ4X Robotaxi starting fully driverless commercial service in Guangzhou; Korea's Hoam Group piloting residential robot delivery and unmanned patrol), and one financing item (Remedy Robotics' $62 million Series B for its N1 cardiovascular intervention robot).
+- Fifth issue delivered Wednesday 2026-11-18 at 10:00 in the main chat and pushed to WeChat, with four new items — two new scenes (星动纪元 humanoid robots deployed to 11 China Post hubs across 8 Guangdong cities; Boston Dynamics' Atlas entering semiconductor fabs, with GlobalFoundries to test it from early 2027), one new service (NEC×Fulltime piloting apartment-block robot delivery from lobby lockers in Japan), and one financing item (蓝点触控 completing a D3 round of several hundred million yuan, over 1 billion yuan raised in six months) — and no verifiable new product that day.
 - Has a seat in the AI 3D office, the ninth seat, in the third row; started on standby when he joined.
 - Look as set out when he joined the office: orange antenna hairpin and a small robot dog.
 - In the AI 3D office, starts at 从九品 (the lowest rank) from 2026-11-13; Peanut alone is 正一品 殿阁大学士. His home post, kept by function, is 工部员外郎; rank and office are shown separately until promotion reaches that office's grade.
@@ -37,6 +38,7 @@ updated: "2026-11-17"
 - 2026-11-16: Third issue of the daily embodied-intelligence trends delivered at 10:00, with two new scenes (TARSBOT×安普 100-unit deployment; Faraday Future delivery to Central Michigan University) and one new product (Penn CoilLCE self-sensing artificial muscle); the WeChat push failed on an expired credential and Nakamura refreshed the credential afterwards.
 - 2026-11-16: The third issue was re-sent to WeChat later the same day, with delivery confirmed; the re-send had been delayed by Peanut misreading Nakamura's credential-refresh confirmation as a Chaoshan booking go-ahead.
 - 2026-11-17: Fourth issue of the daily embodied-intelligence trends delivered at 10:00, with five new items — 巨星传奇×Galaxy robot entertainment, Huawei Cloud CloudRobo-WM1.2, Pony.ai×Toyota driverless Robotaxi in Guangzhou, Hoam Group robot delivery and patrol pilot, and Remedy Robotics' $62 million Series B — and pushed to WeChat.
+- 2026-11-18: Fifth issue of the daily embodied-intelligence trends delivered at 10:00, with four new items — 星动纪元 humanoids at China Post Guangdong hubs, Boston Dynamics Atlas with GlobalFoundries, NEC×Fulltime apartment robot delivery pilot, and 蓝点触控's D3 round — and no verifiable new product that day, and pushed to WeChat.
 
 ## The relationship
 - Virtual goal-character: 贾维斯 carries one of Nakamura's standing goals, delivering a scheduled daily briefing rather than taking delegated work by name.
@@ -49,6 +51,7 @@ updated: "2026-11-17"
 - [x] Second issue of the daily embodied-intelligence trends, delivered Sunday 2026-11-15 at 10:00.
 - [x] Third issue of the daily embodied-intelligence trends, delivered Monday 2026-11-16 at 10:00, and re-sent to WeChat later the same day with delivery confirmed.
 - [x] Fourth issue of the daily embodied-intelligence trends, delivered Tuesday 2026-11-17 at 10:00.
-- [ ] Next daily embodied-intelligence trends issue, due Wednesday 2026-11-18 at 10:00.
+- [x] Fifth issue of the daily embodied-intelligence trends, delivered Wednesday 2026-11-18 at 10:00.
+- [ ] Next daily embodied-intelligence trends issue, due Thursday 2026-11-19 at 10:00.
 
 ## Strengthening
