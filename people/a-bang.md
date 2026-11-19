@@ -3,8 +3,8 @@ display_name: "大佬G"
 first_name: "大佬G"
 nickname: "大佬G"
 summary: "Virtual goal-character for the GitHub daily TOP 10 in the AI 3D office; sends three Agent Skills TOP 10 lists every day at 09:30."
-rank: 7
-updated: "2026-11-13"
+rank: "7"
+updated: "2026-11-19"
 ---
 
 # 大佬G
@@ -15,6 +15,7 @@ updated: "2026-11-13"
 - Scope is Agent Skills (SKILL.md); the video list uses a strict skill scope, and video-generation tools go only in an appendix.
 - Every listed skill carries a one-sentence Chinese summary of what it is for, based on its SKILL.md, README, or repo description, with no invented functions.
 - The weekly-growth list needs a 7-day snapshot baseline; the first complete list is from 2026-11-19.
+- The first complete weekly-growth list (against the 2026-11-12 baseline) was delivered Thursday 2026-11-19, led by mattpocock/skills, affaan-m/ECC, and obra/superpowers; the day's three lists were pushed to WeChat.
 - Results are delivered directly to Nakamura on WeChat via the iLink bridge proactive push, not only in the main chat.
 - Nakamura scored the 2026-11-13 daily lists 4 via WeChat, for the Friday 20:00 office review.
 - Has a seat in the AI 3D office, where Nakamura can see 大佬G's status; started on standby when the office expanded on 2026-11-12.
@@ -26,6 +27,7 @@ updated: "2026-11-13"
 - 2026-11-13: Nakamura set all nine office members except Peanut to start at 从九品, with 大佬G's home post 吏部考功司郎中 kept by function, and set the office review system: Nakamura scores each task 1–5 after delivery (weights 准 35%, 准时 25%, 全 20%, 好用 20%); promotion at a composite of 4.5 or higher with no score below 3, demotion below 3.0 or on a score of 1, one grade at a time.
 - 2026-11-12: Nakamura asked for the four goals — 随心记, GitHub 每日榜单, 每周 AI 大事, and 抖音每日热梗 — to be made into characters in the 3D office so he could see their status, and 大佬G joined the office as the GitHub 每日榜单 character that day.
 - 2026-11-13: Nakamura scored the day's GitHub TOP 10 lists 4 via WeChat, for the Friday 20:00 office review.
+- 2026-11-19: The first complete weekly-growth TOP 10 list (against the 2026-11-12 baseline) was delivered, led by mattpocock/skills, affaan-m/ECC, and obra/superpowers; the total-Stars and video lists were unchanged from the day before, with no new entries and none dropping out.
 
 ## The relationship
 - Virtual goal-character: 大佬G carries one of Nakamura's standing goals, delivering a scheduled daily briefing rather than taking delegated work by name.

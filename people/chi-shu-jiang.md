@@ -3,8 +3,8 @@ display_name: "吃书匠"
 first_name: "吃书匠"
 nickname: "吃书匠"
 summary: "Virtual goal-character for the 5-day fast reading goal in the AI 3D office; sends a daily book-splitting note every weekday at 07:00."
-rank: 13
-updated: "2026-11-18"
+rank: "13"
+updated: "2026-11-19"
 ---
 
 # 吃书匠
@@ -21,6 +21,7 @@ updated: "2026-11-18"
 - Day 1 note of 《盐铁论》 (第 1–12 篇) delivered Monday 2026-11-16, in the main chat and pushed to WeChat; a pre-read letter went out the evening of Sunday 2026-11-15, flagging that the ten-volume and Siku editions number the chapters differently and that one Confucius quote would be held until the original text was checked.
 - Day 2 note of 《盐铁论》 (第 13–24 篇, 卷三 第 13–15 篇 + 卷四 第 16–19 篇 + 卷五 第 20–24 篇) delivered Tuesday 2026-11-17, in the main chat and pushed to WeChat; it covered the debate widening from salt and iron to land, wealth, and people, the dispute over where wealth comes from, and the clash over whether Confucian scholars are of any use.
 - Day 3 note of 《盐铁论》 (第 25–36 篇, 卷五 第 25–28 篇 + 卷六 第 29–36 篇) delivered Wednesday 2026-11-18, in the main chat and pushed to WeChat; it covered the debate shifting from salt and iron to who is qualified to speak and whether those in power are upright, the root of "聚不足" in example from above and institutional failure, and governing as driving a horse and controlling water, with punishment as the whip rather than the reins. The WeChat push went out twice (the scheduled task repeated it); the content was the same. Day 4 is to read 第 37–48 篇 on Thursday 2026-11-19.
+- Day 4 note of 《盐铁论》 (第 37–48 篇, 卷七 第 37–42 篇 + 卷八 第 43–48 篇) delivered Thursday 2026-11-19, in the main chat and pushed to WeChat; it covered the formal debate ending in a partial concession (the request to abolish 郡国榷沽 and 关内铁官 was granted, while the salt-and-iron state monopoly itself stayed), the turn of the post-debate discussion to war versus peace with the Xiongnu, and the disagreement over what the state's foundation is. Day 5 is to read 第 49–60 篇 on Friday 2026-11-20, with a full-book review.
 - Has a seat in the AI 3D office, the twelfth seat; started on standby when he joined.
 - In the AI 3D office, starts at 从九品 (the lowest rank) from 2026-11-14; Peanut alone is 正一品 殿阁大学士. His home post, kept by function, is 从五品·翰林院侍读 (verified 2026-11-14 during the office build: 侍读初制正六品，雍正三年改从五品，乾隆以降定制从五品); rank and office are shown separately until promotion reaches that office's grade.
 - Office seat verified 2026-11-14: 12th member, seat 11, front row fourth desk, status 待命, avatar a scholar with a topknot in a wine-red robe holding a stack of books with red ribbon bookmarks.
@@ -36,6 +37,7 @@ updated: "2026-11-18"
 - 2026-11-16: Day 1 note of 《盐铁论》 (第 1–12 篇) delivered in the main chat and pushed to WeChat.
 - 2026-11-17: Day 2 note of 《盐铁论》 (第 13–24 篇) delivered in the main chat and pushed to WeChat.
 - 2026-11-18: Day 3 note of 《盐铁论》 (第 25–36 篇) delivered in the main chat and pushed to WeChat; the WeChat push went out twice, with the same content.
+- 2026-11-19: Day 4 note of 《盐铁论》 (第 37–48 篇) delivered in the main chat and pushed to WeChat.
 
 ## The relationship
 - Virtual goal-character: 吃书匠 carries one of Nakamura's standing goals, delivering a scheduled weekday reading briefing rather than taking delegated work by name.
@@ -47,7 +49,8 @@ updated: "2026-11-18"
 - [x] First note of 《盐铁论》 Day 1 (第 1-12 篇), delivered Monday 2026-11-16.
 - [x] Day 2 note of 《盐铁论》 (第 13–24 篇), delivered Tuesday 2026-11-17.
 - [x] Day 3 note of 《盐铁论》 (第 25–36 篇), delivered Wednesday 2026-11-18.
+- [x] Day 4 note of 《盐铁论》 (第 37–48 篇), delivered Thursday 2026-11-19.
 - [ ] Nakamura to give feedback on the note format after trying the Day 1 note on Monday 2026-11-16.
-- [ ] Day 4 note of 《盐铁论》 (第 37–48 篇), due Thursday 2026-11-19 at 07:00.
+- [ ] Day 5 note of 《盐铁论》 (第 49–60 篇), due Friday 2026-11-20 at 07:00, with a full-book review.
 
 ## Strengthening

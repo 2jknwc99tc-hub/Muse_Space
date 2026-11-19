@@ -1,8 +1,8 @@
 ---
 display_name: "老板"
 summary: "Decision-maker for the AI property pilot, currently shelved pending his approval; reports to him must be concise, outline-led, and conclusions-first."
-rank: 2
-updated: "2026-11-14"
+rank: "2"
+updated: "2026-11-19"
 ---
 
 # 老板
@@ -11,6 +11,7 @@ updated: "2026-11-14"
 - Decision-maker for the AI property pilot.
 - McGill University PhD in informatics and social sciences.
 - Very structured in thinking and meticulous; prefers outline-led, concise reporting and rejects verbosity.
+- As a social-science researcher, he values logical coherence: material for him should read as a connected argument chain, not as evidence stacked behind a conclusion stated up front.
 - Reports to him should lead with conclusions and structure, with no long prose.
 - His time is tight; the pilot scheme for him should be a Word document of 5–6 pages.
 - The format of a scheme for him must follow the V8 original proposal's format (line spacing, fonts, and so on), not be improvised.
@@ -33,10 +34,12 @@ updated: "2026-11-14"
 - 2026-11-12: A fusion round the same day produced V9.4: graph technology plus AI-brain fusion was accepted as the architecture, but the conclusion was unchanged — only the 50,000-yuan verification plus limited testing, with the 7 tests still at 0/5/2; the next-step plan is a concise 2-week version only, 2026-11-13 to 2026-11-26.
 - 2026-11-12: The boss-version Word document was delivered at 5 pages, within the 5–6 page limit; the detailed draft was later revised to 14 pages, figures unchanged, format still following the V8 original, with "总体经济账与复制判断" pulled out as standalone chapter 4 and the "提请审议事项与下一步工作" chapter deleted.
 - 2026-11-14: Nakamura said the pilot is temporarily shelved because the boss is still approving it; the Day 2 close-out follow-up and the planned 2026-11-15 reply review are paused until he says to resume.
+- 2026-11-19: Nakamura said the boss is a social-science researcher who values logical coherence, and reordered Chapter 1 of the client senior-visit PPT (new order 5, 4, 1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14 — second-year history, then 15th Five-Year direction, then three judgments, then 2026 status, then foreign practice, then scenarios, diagnosis, and direction) so the chapter argues in a chain leading into Chapter 2.
 
 ## The relationship
 - The boss is the decision-maker on the AI property pilot; Nakamura reports to him on it.
 - Communication that works with him is short, structured, and conclusions-first; long prose does not land.
+- He judges material by whether its logic holds together as a chain — time positioning, then current status, then precedent, then direction — not by how much evidence is stacked behind a conclusion.
 - Because he may forward the boss version to the customer, its wording must be externally safe and forwardable, not written for an internal audience only.
 
 ## In common
