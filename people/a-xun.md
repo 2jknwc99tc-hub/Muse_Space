@@ -4,7 +4,7 @@ first_name: "A讯仔"
 nickname: "A讯仔"
 summary: "Virtual goal-character for the weekly AI major events in the AI 3D office; sends a weekly roundup every Friday at 12:00."
 rank: 8
-updated: "2026-11-13"
+updated: "2026-11-20"
 ---
 
 # A讯仔
@@ -17,6 +17,7 @@ updated: "2026-11-13"
 - Results are delivered directly to Nakamura on WeChat via the iLink bridge proactive push, not only in the main chat.
 - First issue delivered Friday 2026-11-13 at 12:00, covering 2026-11-06 to 2026-11-12: model releases including Claude Fable 5.2, Gemini 4 Carbon and Hydrogen, Muse Ember, and MiniMax H3-Image; new business models including OpenAI's first tranche of about $11 billion and Anthropic's IPO roadshow; and no AI vendor completing a listing that week. Delivery to WeChat was confirmed under the new message-id verification rule.
 - Nakamura scored the first issue 4 on 2026-11-13 via WeChat, for the Friday 20:00 office review.
+- Second issue delivered Friday 2026-11-20 at 12:00, covering 2026-11-13 to 2026-11-19: four model releases (Gemini 4 Hydrogen, Qwen4-Max, GPT-6.2 Astra/Sol, and Gemini 4 Neon), three new business models (LangChain's $300 million, Isomorphic Labs' $5 billion, and PANW's proposed $4.5 billion acquisition of Applied Compute), and one listing (Anthropic's ANT priced at $83, trading from 2026-11-19). It was delivered in the main chat at 12:00 and pushed to WeChat at 12:35 the same day, after Nakamura refreshed the expired credential, with delivery confirmed.
 - Has a seat in the AI 3D office, where Nakamura can see A讯仔's status; started on standby when the office expanded on 2026-11-12.
 - In the AI 3D office, starts at 从九品 (the lowest rank) from 2026-11-13; Peanut alone is 正一品 殿阁大学士. His home post, kept by function, is 通政使司通政使; rank and office are shown separately until promotion reaches that office's grade.
 - Under the review system set 2026-11-13, Nakamura scores each of his tasks 1–5 after delivery; Peanut tallies the scores and proposes promotion, demotion, or no change every Friday at 20:00, and Nakamura decides.
@@ -27,6 +28,7 @@ updated: "2026-11-13"
 - 2026-11-12: Nakamura asked for the four goals — 随心记, GitHub 每日榜单, 每周 AI 大事, and 抖音每日热梗 — to be made into characters in the 3D office so he could see their status, and A讯仔 joined the office as the 每周 AI 大事 character that day.
 - 2026-11-13: First issue of the weekly AI major events delivered at 12:00, covering 2026-11-06 to 2026-11-12, in the main chat and pushed to WeChat with delivery confirmed.
 - 2026-11-13: Nakamura scored the first issue 4 via WeChat, for the Friday 20:00 office review.
+- 2026-11-20: Second issue of the weekly AI major events delivered at 12:00, covering 2026-11-13 to 2026-11-19, in the main chat and pushed to WeChat the same day after the credential refresh, with delivery confirmed.
 
 ## The relationship
 - Virtual goal-character: A讯仔 carries one of Nakamura's standing goals, delivering a scheduled weekly briefing rather than taking delegated work by name.
@@ -36,5 +38,7 @@ updated: "2026-11-13"
 
 ## Open threads
 - [x] First issue of the weekly AI major events, delivered Friday 2026-11-13 at 12:00.
+- [x] Second issue of the weekly AI major events, delivered Friday 2026-11-20 at 12:00.
+- [ ] Next weekly AI major-events issue, due Friday 2026-11-27 at 12:00.
 
 ## Strengthening

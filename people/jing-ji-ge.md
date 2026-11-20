@@ -2,7 +2,7 @@
 display_name: "经济哥"
 first_name: "经济哥"
 summary: "Virtual goal-character for the weekly China-economy trends in the AI 3D office; sends a roundup drawn only from eight named banks every Wednesday at 12:00."
-rank: "11"
+rank: 11
 updated: "2026-11-19"
 ---
 

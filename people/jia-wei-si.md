@@ -2,8 +2,8 @@
 display_name: "贾维斯"
 first_name: "贾维斯"
 summary: "Virtual goal-character for the daily embodied-intelligence trends in the AI 3D office; sends new scenes, products, services, and financing news every day at 10:00."
-rank: "10"
-updated: "2026-11-19"
+rank: 10
+updated: "2026-11-20"
 ---
 
 # 贾维斯
@@ -23,6 +23,7 @@ updated: "2026-11-19"
 - Fourth issue delivered Tuesday 2026-11-17 at 10:00 in the main chat and pushed to WeChat, with five new items — one new scene (巨星传奇×Galaxy signing to build robot entertainment, including a robot park and tour), one new product (Huawei Cloud's CloudRobo-WM1.2 embodied world model), two new services (Pony.ai×Toyota Gen 7 bZ4X Robotaxi starting fully driverless commercial service in Guangzhou; Korea's Hoam Group piloting residential robot delivery and unmanned patrol), and one financing item (Remedy Robotics' $62 million Series B for its N1 cardiovascular intervention robot).
 - Fifth issue delivered Wednesday 2026-11-18 at 10:00 in the main chat and pushed to WeChat, with four new items — two new scenes (星动纪元 humanoid robots deployed to 11 China Post hubs across 8 Guangdong cities; Boston Dynamics' Atlas entering semiconductor fabs, with GlobalFoundries to test it from early 2027), one new service (NEC×Fulltime piloting apartment-block robot delivery from lobby lockers in Japan), and one financing item (蓝点触控 completing a D3 round of several hundred million yuan, over 1 billion yuan raised in six months) — and no verifiable new product that day.
 - Sixth issue delivered Thursday 2026-11-19 at 10:00 in the main chat and pushed to WeChat, with three new items — one new service (NETSDAR with 爱凤, Otis Elevator Japan, and World Supply piloting in-building delivery robots in a Fukuoka UR rental housing complex on 2026-11-18, fetching parcels from lobby lockers and riding the elevator to residents' doors) and two financing items (柏川数据 / ByteTree completing a 50-million-yuan Pre-A round for physical-AI data pipelines and embodied datasets; Singapore's Botsync raising $11 million for its SyncOS factory-robot scheduling software) — and no verifiable new scene or new product that day.
+- Seventh issue delivered Friday 2026-11-20 at 10:00 in the main chat, with three new items, all financing — 原力无限's tens-of-millions-of-yuan Pre-B round (杭州资本 sole investor, for its AtomBrain), MegaRobo's nearly $200 million round (OIA and CMB International, for AI-for-Science laboratory robot infrastructure), and Humyn Labs' $47 million Series A ($26 million equity led by Accel plus $21 million debt, for real-world robot data) — and no verifiable new scene, new product, or new service that day. The WeChat push was held for the expired credential and re-sent at 12:35 the same day with delivery confirmed.
 - Has a seat in the AI 3D office, the ninth seat, in the third row; started on standby when he joined.
 - Look as set out when he joined the office: orange antenna hairpin and a small robot dog.
 - In the AI 3D office, starts at 从九品 (the lowest rank) from 2026-11-13; Peanut alone is 正一品 殿阁大学士. His home post, kept by function, is 工部员外郎; rank and office are shown separately until promotion reaches that office's grade.
@@ -41,6 +42,7 @@ updated: "2026-11-19"
 - 2026-11-17: Fourth issue of the daily embodied-intelligence trends delivered at 10:00, with five new items — 巨星传奇×Galaxy robot entertainment, Huawei Cloud CloudRobo-WM1.2, Pony.ai×Toyota driverless Robotaxi in Guangzhou, Hoam Group robot delivery and patrol pilot, and Remedy Robotics' $62 million Series B — and pushed to WeChat.
 - 2026-11-18: Fifth issue of the daily embodied-intelligence trends delivered at 10:00, with four new items — 星动纪元 humanoids at China Post Guangdong hubs, Boston Dynamics Atlas with GlobalFoundries, NEC×Fulltime apartment robot delivery pilot, and 蓝点触控's D3 round — and no verifiable new product that day, and pushed to WeChat.
 - 2026-11-19: Sixth issue of the daily embodied-intelligence trends delivered at 10:00, with three new items — the Fukuoka UR rental-housing delivery-robot pilot, ByteTree's 50-million-yuan Pre-A round, and Botsync's $11 million round — and no verifiable new scene or new product that day, and pushed to WeChat.
+- 2026-11-20: Seventh issue of the daily embodied-intelligence trends delivered at 10:00, with three financing items — 原力无限's Pre-B round, MegaRobo's nearly $200 million round, and Humyn Labs' $47 million Series A — and no verifiable new scene, new product, or new service that day; the WeChat push was re-sent after the credential refresh and verified delivered.
 
 ## The relationship
 - Virtual goal-character: 贾维斯 carries one of Nakamura's standing goals, delivering a scheduled daily briefing rather than taking delegated work by name.
@@ -55,6 +57,7 @@ updated: "2026-11-19"
 - [x] Fourth issue of the daily embodied-intelligence trends, delivered Tuesday 2026-11-17 at 10:00.
 - [x] Fifth issue of the daily embodied-intelligence trends, delivered Wednesday 2026-11-18 at 10:00.
 - [x] Sixth issue of the daily embodied-intelligence trends, delivered Thursday 2026-11-19 at 10:00.
-- [ ] Next daily embodied-intelligence trends issue, due Friday 2026-11-20 at 10:00.
+- [x] Seventh issue of the daily embodied-intelligence trends, delivered Friday 2026-11-20 at 10:00, and re-sent to WeChat the same day with delivery confirmed.
+- [ ] Next daily embodied-intelligence trends issue, due Saturday 2026-11-21 at 10:00.
 
 ## Strengthening
