@@ -1,7 +1,7 @@
 ---
 display_name: "虚拟队友"
 summary: "Nakamura's virtual team in the AI 3D office — 克劳德, 幻灯仔, and 方案哥 plus nine goal-characters — who work for him through Peanut."
-rank: 1
+rank: "1"
 updated: "2026-11-20"
 ---
 
@@ -56,6 +56,9 @@ updated: "2026-11-20"
 - 2026-11-20: A讯仔 delivered the second weekly AI major-events roundup at 12:00, covering 2026-11-13 to 2026-11-19, in the main chat. That morning's WeChat pushes — the 吃书匠 Day 5 note, the Douyin and GitHub lists, and 贾维斯's daily briefing — had again failed silently on an expired credential, with no new message id generated; after Nakamura refreshed the credential with a WeChat message at about 12:34, all four were re-sent and verified delivered, and A讯仔's roundup was pushed to WeChat at the same time.
 - 2026-11-20: 古典老师 delivered his first daily classical-essence issue at 18:00, with 5 items from other classics （论语·学而， 孟子·尽心上， 道德经·第三十三章， 荀子·劝学， 史记·李将军列传）, in the main chat and pushed to WeChat with delivery confirmed. Nakamura then directed "先研读《盐铁论》", so from 2026-11-21 the essences are picked from 《盐铁论》 in chapter order, with other classics only after it is covered.
 - 2026-11-20: Bengji delivered his second weekly ontology research trends roundup at 18:00, with 10 items covering 2026-11-13 to 2026-11-19, in the main chat and pushed to WeChat with delivery confirmed.
+- 2026-11-20: 好记星 delivered the second weekly 随心记 knowledge briefing, covering the week's 13 articles (the eleventh through the twenty-third) along four lines: 本体与语义地基, 多智能体协作与 Agent 网络, 评测与可信治理, and 组织流程与宏观规划.
+- 2026-11-20: For the Friday 20:00 office review, Peanut prepared the tally draft and sent Nakamura a final scoring reminder; at that point the only score recorded in chat was 贾维斯's 1 for the 2026-11-15 embodied-intelligence issue (still in his 2-week no-demotion protection, reminder only, no demotion). The week's scoreable work awaiting Nakamura's scores: 大佬G, DoinB, and 贾维斯 7 issues each, 吃书匠 5 issues, 古典老师's first issue 1; 经济哥's first issue, A讯仔, Bengji, and 好记星 1 each. No ranks or offices were changed before Nakamura's decision, and no Friday 20:00 tally cron was created.
+- 2026-11-21: Nakamura named 吃书匠's second 5-day fast-reading book, 《小岛经济学》, scheduled Monday 2026-11-23 to Friday 2026-11-27 at 07:00 each day, about 4 chapters per day; and sent 随心记's twenty-fourth article, 《如何锻炼出强悍的深度思考能力？》 (根号参, 叁彡/晚风, 2026-11-13), recorded the same day toward the Friday 2026-11-27 briefing.
 
 ## Themes
 - Coding work through 克劳德, including Nakamura's Codex projects, now synced to his GitHub repo Codex_Space.
@@ -70,4 +73,5 @@ updated: "2026-11-20"
 ## Open threads
 - [ ] Nakamura to give 好记星 a score for her 2026-11-13 随心记 briefing, if he chooses to (asked 2026-11-13; unanswered at the end of the window).
 - [ ] Nakamura to decide whether to make the Friday 20:00 office review a scheduled task (proposed 2026-11-13).
-- [ ] Nakamura to name the next 5-day fast-reading book (toolbooks and practical books only) for 吃书匠, due Sat/Sun 2026-11-21/22.
+- [x] Nakamura to name the next 5-day fast-reading book (toolbooks and practical books only) for 吃书匠, due Sat/Sun 2026-11-21/22 — named 2026-11-21: 《小岛经济学》, reading week 2026-11-23 to 2026-11-27.
+- [ ] Nakamura to score this week's tasks for the Friday 2026-11-20 20:00 office review (tally draft prepared 2026-11-20; only 贾维斯's 1 for the 2026-11-15 issue recorded so far; 大佬G, DoinB, and 贾维斯 7 issues each, 吃书匠 5, 古典老师 1, 经济哥 1, A讯仔 1, Bengji 1, and 好记星 1 awaiting scores).

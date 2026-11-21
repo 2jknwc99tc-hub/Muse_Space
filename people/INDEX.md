@@ -14,5 +14,5 @@ Every page under `~/memory/people/`, closest to the user first. Rendered by the 
 - **贾维斯** — `~/memory/people/jia-wei-si.md` — Virtual goal-character for the daily embodied-intelligence trends in the AI 3D office; sends new scenes, products, services, and financing news every day at 10:00.
 - **经济哥** — `~/memory/people/jing-ji-ge.md` — Virtual goal-character for the weekly China-economy trends in the AI 3D office; sends a roundup drawn only from eight named banks every Wednesday at 12:00.
 - **Bengji** — `~/memory/people/bengji.md` — Virtual goal-character for the weekly ontology research trends in the AI 3D office; sends a weekly roundup every Friday at 18:00.
-- **吃书匠** — `~/memory/people/chi-shu-jiang.md` — Virtual goal-character for the 5-day fast reading goal in the AI 3D office; sends a daily book-splitting note every weekday at 07:00, for toolbooks and practical books only since 2026-11-20.
+- **吃书匠** — `~/memory/people/chi-shu-jiang.md` — Virtual goal-character for the 5-day fast reading goal in the AI 3D office; sends a daily book-splitting note every weekday at 07:00, now reading 《小岛经济学》 (2026-11-23 to 2026-11-27).
 - **古典老师** — `~/memory/people/gu-dian-lao-shi.md` — Virtual goal-character for daily classical-essence study in the AI 3D office; sends 5 essences daily at 18:00, studying 《盐铁论》 first from 2026-11-21.
