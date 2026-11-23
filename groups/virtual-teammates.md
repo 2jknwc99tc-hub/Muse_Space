@@ -2,7 +2,7 @@
 display_name: "虚拟队友"
 summary: "Nakamura's virtual team in the AI 3D office — 克劳德, 幻灯仔, and 方案哥 plus nine goal-characters — who work for him through Peanut."
 rank: "1"
-updated: "2026-11-20"
+updated: "2026-11-22"
 ---
 
 # 虚拟队友
@@ -59,6 +59,9 @@ updated: "2026-11-20"
 - 2026-11-20: 好记星 delivered the second weekly 随心记 knowledge briefing, covering the week's 13 articles (the eleventh through the twenty-third) along four lines: 本体与语义地基, 多智能体协作与 Agent 网络, 评测与可信治理, and 组织流程与宏观规划.
 - 2026-11-20: For the Friday 20:00 office review, Peanut prepared the tally draft and sent Nakamura a final scoring reminder; at that point the only score recorded in chat was 贾维斯's 1 for the 2026-11-15 embodied-intelligence issue (still in his 2-week no-demotion protection, reminder only, no demotion). The week's scoreable work awaiting Nakamura's scores: 大佬G, DoinB, and 贾维斯 7 issues each, 吃书匠 5 issues, 古典老师's first issue 1; 经济哥's first issue, A讯仔, Bengji, and 好记星 1 each. No ranks or offices were changed before Nakamura's decision, and no Friday 20:00 tally cron was created.
 - 2026-11-21: Nakamura named 吃书匠's second 5-day fast-reading book, 《小岛经济学》, scheduled Monday 2026-11-23 to Friday 2026-11-27 at 07:00 each day, about 4 chapters per day; and sent 随心记's twenty-fourth article, 《如何锻炼出强悍的深度思考能力？》 (根号参, 叁彡/晚风, 2026-11-13), recorded the same day toward the Friday 2026-11-27 briefing.
+- 2026-11-21: The daily lists (DoinB's Douyin TOP 20 and 大佬G's GitHub TOP 10) were delivered in the main chat and pushed to WeChat with delivery confirmed. 贾维斯 delivered his eighth daily embodied-intelligence issue at 10:00 (one reported financing item, no verifiable new scene, product, or service); its WeChat push first failed on an expired credential and was re-sent the same afternoon with delivery confirmed. 古典老师 delivered his second issue at 18:00, the first under the 《盐铁论》-first order, in the main chat and pushed to WeChat with delivery confirmed.
+- 2026-11-22: The daily lists and 贾维斯's ninth daily embodied-intelligence issue (no verifiable new item in any category) were delivered in the main chat and pushed to WeChat with delivery confirmed. 古典老师's third issue and 吃书匠's 《小岛经济学》 pre-read letter were delivered in the main chat in the evening; both WeChat pushes first failed on an expired credential and were re-sent the same evening, after the credential refresh, with delivery confirmed.
+- 2026-11-22: Peanut sent Nakamura the next week's schedule (2026-11-23 to 2026-11-27) and proposed closing out the office review: the 2026-11-13 summary and the 2026-11-20 period both with no promotion or demotion (for the 2026-11-20 period, the only score recorded in chat is 贾维斯's 1 for the 2026-11-15 issue, still in his 2-week no-demotion protection, reminder only), each awaiting Nakamura's confirmation ("好，按这个记") to be recorded; if he had already scored in the office page, Peanut would recount. The client senior-visit素材库 V6 (cover + 56 pages) was also flagged for his review when he has time, not urgent.
 
 ## Themes
 - Coding work through 克劳德, including Nakamura's Codex projects, now synced to his GitHub repo Codex_Space.
@@ -74,4 +77,4 @@ updated: "2026-11-20"
 - [ ] Nakamura to give 好记星 a score for her 2026-11-13 随心记 briefing, if he chooses to (asked 2026-11-13; unanswered at the end of the window).
 - [ ] Nakamura to decide whether to make the Friday 20:00 office review a scheduled task (proposed 2026-11-13).
 - [x] Nakamura to name the next 5-day fast-reading book (toolbooks and practical books only) for 吃书匠, due Sat/Sun 2026-11-21/22 — named 2026-11-21: 《小岛经济学》, reading week 2026-11-23 to 2026-11-27.
-- [ ] Nakamura to score this week's tasks for the Friday 2026-11-20 20:00 office review (tally draft prepared 2026-11-20; only 贾维斯's 1 for the 2026-11-15 issue recorded so far; 大佬G, DoinB, and 贾维斯 7 issues each, 吃书匠 5, 古典老师 1, 经济哥 1, A讯仔 1, Bengji 1, and 好记星 1 awaiting scores).
+- [ ] Nakamura to confirm the office-review close-out proposed 2026-11-22: the 2026-11-13 summary and the 2026-11-20 period both recorded with no promotion or demotion (for the 2026-11-20 period, the only score recorded in chat is 贾维斯's 1 for the 2026-11-15 issue, in his 2-week no-demotion protection, reminder only); if he scored in the office page instead, Peanut to recount.
