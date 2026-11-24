@@ -4,7 +4,7 @@ first_name: "古典老师"
 nickname: "古典老师"
 summary: "Virtual goal-character for daily classical-essence study in the AI 3D office; sends 5 essences daily at 18:00, studying 《盐铁论》 first from 2026-11-21."
 rank: "14"
-updated: "2026-11-22"
+updated: "2026-11-24"
 ---
 
 # 古典老师
@@ -19,6 +19,7 @@ updated: "2026-11-22"
 - First issue delivered 2026-11-20 at 18:00 in the main chat and pushed to WeChat with delivery confirmed; its 5 items came from other classics （论语·学而， 孟子·尽心上， 道德经·第三十三章， 荀子·劝学， 史记·李将军列传） before the selection order was set.
 - Second issue delivered 2026-11-21 at 18:00 in the main chat and pushed to WeChat with delivery confirmed; the first issue under the 《盐铁论》-first order, its 5 items from 《盐铁论·本议》 (two), 《盐铁论·力耕》 (two), and 《盐铁论·通有》 (one).
 - Third issue delivered 2026-11-22 at 18:00 in the main chat, its 5 items from 《盐铁论·通有》, 《盐铁论·错币》, 《盐铁论·禁耕》, 《盐铁论·复古》, and 《盐铁论·非鞅》; the WeChat push first failed on an expired credential and was re-sent the same evening with delivery confirmed.
+- Fourth issue delivered 2026-11-23 at 18:00 in the main chat and pushed to WeChat with delivery confirmed; its 5 items from 《盐铁论·晁错》, 《盐铁论·刺权》, 《盐铁论·刺复》, 《盐铁论·论儒》, and 《盐铁论·忧边》.
 - Context: Nakamura decided on 2026-11-20 that classical literature does not suit the 5-day fast reading (he felt he absorbed little from 《盐铁论》); classical texts move to this slow daily study instead, and 吃书匠 keeps the fast-reading goal for toolbooks only.
 - Joined the AI 3D office 2026-11-20 at Nakamura's request ("进3D办公室"), the thirteenth seat, starting on standby.
 - In the AI 3D office, starts at 从九品 (the lowest rank) from 2026-11-20; Peanut alone is 正一品 殿阁大学士. His home post, kept by function, is 正四品·翰林院侍读学士； rank and office are shown separately until promotion reaches that office's grade.
@@ -31,6 +32,7 @@ updated: "2026-11-22"
 - 2026-11-20: After the first issue, Nakamura said "先研读《盐铁论》"; from tomorrow (2026-11-21) the essences are picked from 《盐铁论》 in chapter order, and other classics only after it is covered.
 - 2026-11-21: Second issue delivered at 18:00, the first under the 《盐铁论》-first order, with 5 items from 《盐铁论·本议》 (two), 《盐铁论·力耕》 (two), and 《盐铁论·通有》 (one), in the main chat and pushed to WeChat with delivery confirmed.
 - 2026-11-22: Third issue delivered at 18:00, with 5 items from 《盐铁论·通有》, 《盐铁论·错币》, 《盐铁论·禁耕》, 《盐铁论·复古》, and 《盐铁论·非鞅》, in the main chat; the WeChat push first failed on an expired credential and was re-sent the same evening with delivery confirmed.
+- 2026-11-23: Fourth issue delivered at 18:00, with 5 items from 《盐铁论·晁错》, 《盐铁论·刺权》, 《盐铁论·刺复》, 《盐铁论·论儒》, and 《盐铁论·忧边》, in the main chat and pushed to WeChat with delivery confirmed.
 
 ## The relationship
 - Virtual goal-character: 古典老师 carries one of Nakamura's standing goals, delivering a scheduled daily study briefing rather than taking delegated work by name.
@@ -42,6 +44,7 @@ updated: "2026-11-22"
 - [x] First issue delivered Friday 2026-11-20 at 18:00.
 - [x] Second issue delivered Saturday 2026-11-21 at 18:00, the first 《盐铁论》 issue.
 - [x] Third issue delivered Sunday 2026-11-22 at 18:00, and re-sent to WeChat the same evening with delivery confirmed.
+- [x] Fourth issue delivered Monday 2026-11-23 at 18:00, and pushed to WeChat with delivery confirmed.
 - [x] Office home post confirmed from the office build: 正四品·翰林院侍读学士， seat 12, front-row centre desk.
 - [ ] Study 《盐铁论》 first from 2026-11-21, essences picked in chapter order; move to other classics only after 《盐铁论》 is covered.
 
