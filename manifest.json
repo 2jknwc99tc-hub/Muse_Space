@@ -1,12 +1,12 @@
 {
   "format_version": "1",
-  "backup_date": "2026-11-26",
+  "backup_date": "2026-11-27",
   "backup_timezone": "Asia/Shanghai",
   "assistant": "Peanut",
   "owner": "Nakamura",
   "repository": "2jknwc99tc-hub/Muse_Space",
   "notes": "Muse 备份导出格式 v1。manifest.json 本身不在文件列表中（自引用无法校验）。导入时按清单逐个核对 sha256，缺文件或哈希不符就先停下、不要猜。",
-  "file_count": 119,
+  "file_count": 121,
   "files": [
     {
       "path": "README.md",
@@ -84,6 +84,11 @@
       "sha256": "d9bbf4a7776cd533b308d921ffbeb616602de4ff6535a0b6aea6fc5fc8a33347"
     },
     {
+      "path": "achievements/2026-11-27.md",
+      "purpose": "当日成果清单（人类可读）",
+      "sha256": "456a65737789cca82d6578116ec718e08f8e55412e7e78275cd4e1b4a7e84295"
+    },
+    {
       "path": "deliverables/2026-11-14-anthropic-ipo-roadshow/Anthropic-IPO-Roadshow-Deck-2026-11-10.pdf",
       "purpose": "工作成果：Anthropic IPO 路演幻灯片 PDF（从路演视频抽帧还原，共 56 页）",
       "sha256": "449f0349702abfea82ae9ceda3a88a731fd713b5cee3359fdebbde6aed115c14"
@@ -106,7 +111,7 @@
     {
       "path": "goals/5/goal.json",
       "purpose": "目标结构化记录：标题、状态、日程、角色名、用途",
-      "sha256": "588ba7c80a9515a1e8744c77439bf5bb8df12368b7238509644d62d999154e82"
+      "sha256": "7426044cd1f15b2a96fd6e3c20ab04f11087c2ed70d6f7b3ecbbd4b0258c714e"
     },
     {
       "path": "goals/ai-3d-office-weekly-review/GOAL.md",
@@ -116,7 +121,7 @@
     {
       "path": "goals/ai-3d-office-weekly-review/goal.json",
       "purpose": "目标结构化记录：标题、状态、日程、角色名、用途",
-      "sha256": "a0d2de9f5a50f4c6658ede2d7d84d104483029639d0c2009bb251677298a554d"
+      "sha256": "75c94712956c341e63a648a14bace7889ea66fa7b394d6dbdb5a82fe83a2bceb"
     },
     {
       "path": "goals/ai/GOAL.md",
@@ -126,7 +131,7 @@
     {
       "path": "goals/ai/goal.json",
       "purpose": "目标结构化记录：标题、状态、日程、角色名、用途",
-      "sha256": "adc46e583f514b5b57b3d2861a57c64adf2d55b1974b7cf67fc529da4f4072b2"
+      "sha256": "5ee326a5c908541eaf63861897f88bd8574ea25c58ab64904cb46f6b418ee454"
     },
     {
       "path": "goals/chaoshan-weekend-trip/GOAL.md",
@@ -211,7 +216,7 @@
     {
       "path": "goals/github-skill/goal.json",
       "purpose": "目标结构化记录：标题、状态、日程、角色名、用途",
-      "sha256": "e0498cbe78af9cda5474562464b5e60a80d30b562a778f7531e268e2a88326e7"
+      "sha256": "b29cdba69c3b1941a5e34ad7ca63a78faa5362c734b0300a8a55f5bd0acee08a"
     },
     {
       "path": "goals/github/GOAL.md",
@@ -221,7 +226,7 @@
     {
       "path": "goals/github/goal.json",
       "purpose": "目标结构化记录：标题、状态、日程、角色名、用途",
-      "sha256": "9adeef39c5910f2f895919fdadab1a630dbfcee46fe99eac4e146790636c27e5"
+      "sha256": "1c71f8cbcda9e1989b21481f60236d31b256d8416881a3073673fecacaa4762d"
     },
     {
       "path": "goals/goal-2/GOAL.md",
@@ -231,7 +236,7 @@
     {
       "path": "goals/goal-2/goal.json",
       "purpose": "目标结构化记录：标题、状态、日程、角色名、用途",
-      "sha256": "63fc3a312c8fc27d5d007525b0eb2f9632e8eafcf53ad23e1cc02205deeacfed"
+      "sha256": "7debd6821fb944709d8933e78e7486cc641bde1c0368687172782a8d993bb6be"
     },
     {
       "path": "goals/goal-3/GOAL.md",
@@ -256,7 +261,7 @@
     {
       "path": "goals/goal-4/goal.json",
       "purpose": "目标结构化记录：标题、状态、日程、角色名、用途",
-      "sha256": "2fe89d70e7c3f2a5f79992b8d636582431a79480e92652e2bd7a8d184e01563b"
+      "sha256": "db0c5f1810b034691618bcf45e2169d8715f2d61e1b4fb900f24b4afc3f1501a"
     },
     {
       "path": "goals/goal-5/GOAL.md",
@@ -266,7 +271,7 @@
     {
       "path": "goals/goal-5/goal.json",
       "purpose": "目标结构化记录：标题、状态、日程、角色名、用途",
-      "sha256": "61a6e806d100310604f7736774805d8f268ba119b311aace03d9e15bca5dff80"
+      "sha256": "8f0db7a7e149b71ceb44cf0f381d2ccfa59b776849238ea650c1da05e93e80d0"
     },
     {
       "path": "goals/goal/GOAL.md",
@@ -416,7 +421,7 @@
     {
       "path": "goals/goal/goal.json",
       "purpose": "目标结构化记录：标题、状态、日程、角色名、用途",
-      "sha256": "2c2cf775aa0ce4f7881db0407c704a1325fcbbe09a7273ef4b7dd33464ed2b27"
+      "sha256": "edc503bb19ceae686742021512aff4f107e8cad988ad35faa949c70389dd13e1"
     },
     {
       "path": "goals/top-20/GOAL.md",
@@ -426,7 +431,7 @@
     {
       "path": "goals/top-20/goal.json",
       "purpose": "目标结构化记录：标题、状态、日程、角色名、用途",
-      "sha256": "31a380c3b68367b792084840de4efe0063307ffc14e937331631193d014704b4"
+      "sha256": "5f27ca3b61535d906a981d39c8094c5e0ddb955fd7f15173cabaec8b1cfd440f"
     },
     {
       "path": "groups/INDEX.md",
@@ -519,6 +524,11 @@
       "sha256": "7bc56c85bdc8099da6319d3c834378ae882a75b96e0da48bd677d07ad9bc7c1b"
     },
     {
+      "path": "memory/daily/2026-11-27.md",
+      "purpose": "每日日志（对应新助手的 ~/memory/YYYY-MM-DD.md）",
+      "sha256": "c9b7584e80781866c3dc672543606eba1e1b5ed45b69d042a4e785411821c9ce"
+    },
+    {
       "path": "people/INDEX.md",
       "purpose": "人物索引",
       "sha256": "416e368178d0b0752a618380a65530a67451e4c8ea22b42c9d7d99c6f68fe5ce"
@@ -596,12 +606,12 @@
     {
       "path": "tasks/scheduled.json",
       "purpose": "定时任务清单：标题、日程、用途（不含执行凭证）",
-      "sha256": "4012313a1d0077b926dd3e56bf46573d651ac7fdb51e99da241dda1ccce01a7b"
+      "sha256": "aa9d488100af86a1fbef0dc0fb30ee42d5511245bb7f542cc483fe7bf98d3d97"
     },
     {
       "path": "tasks/tracked.json",
       "purpose": "跟踪事项清单：标题、状态、说明",
-      "sha256": "7d3485b7590646b01a5a8bb009931f090ca93558f55b832a177674f50faa8366"
+      "sha256": "5d0e860be3a9b3a65c4a96a05b097bfcb531a1feb06ad72a48305771fd0bf244"
     }
   ]
 }
